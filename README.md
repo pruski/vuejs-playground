@@ -1,10 +1,10 @@
 # vuejs-playground
 
-####Install and run
+#### Install and run
 Add the api key in the `/src/app/utils/api.ts`, then 
 `yarn && yarn serve`.
 
-####Notes
+#### Notes
 Following "This is not a test! Seriously, try and have fun with it, make it your own!" I decided to learn VueJS at this occasion. Using Typescript wasn't the best decision, as it is not documented enough for the given time frame (I did not know that when I was setting up the project). The code may be considered as over engineered, however I wanted to get a glimpse of how a large Vue app may look like. I must say I'm very pleased with the experience so far. 
 
 Due to lack of time I had to take a couple of shortcuts:
